@@ -5,7 +5,7 @@
     },
     "core": "stm32",
     "cpu": "cortex-m3",
-    "extra_flags": "-DSTM32F1 -DSTM32F103xB -DARDUINO_BLUEPILL_F103C8",
+    "extra_flags": "-DSTM32F1 -DSTM32F103xB",
     "f_cpu": "72000000L",
     "hwids": [
       [
