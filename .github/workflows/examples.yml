@@ -14,6 +14,7 @@ jobs:
           - "examples/arduino-external-libs"
           - "examples/arduino-internal-libs"
           - "tests/arduino-blink-different-cores"
+          - "tests/arduino-blink-regression-test"
     runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
