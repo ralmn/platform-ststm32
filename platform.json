@@ -93,7 +93,10 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~2.50501.0"
+      "version": "~2.50501.0",
+      "optionalVersions": [
+        "~2.50700.0"
+      ]
     },
     "framework-cmsis-stm32f0": {
       "type": "framework",
